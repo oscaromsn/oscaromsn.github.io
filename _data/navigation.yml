@@ -8,17 +8,14 @@ main:
   - title: "About"
     url: /
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Speaking"
     url: /speaking/
-
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Projects"
-    url: /projects/
 
   - title: "Blog"
     url: /year-archive/
